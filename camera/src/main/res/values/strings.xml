@@ -1,0 +1,4 @@
+<resources>
+    <string name="sch_camera_disable">无法使用相机</string>
+    <string name="sch_no_camera">没有找到摄像头设备</string>
+</resources>
