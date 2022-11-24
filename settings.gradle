@@ -1,1 +1,1 @@
-include ':app',':htui',':camera'
+include ':app',':camera',':htui'

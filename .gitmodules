@@ -1,0 +1,3 @@
+[submodule "htui"]
+	path = htui
+	url = https://gitee.com/htai-open/HTEffect_AndroidX_Android
